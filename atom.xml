@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>坨坨泡泡</title>
   
+  <subtitle>成长之路</subtitle>
+  <link href="https://qhf-naturex-01.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
+  <link href="https://qhf-naturex-01.github.io/"/>
   <updated>2021-06-26T09:31:15.115Z</updated>
-  <id>http://example.com/</id>
+  <id>https://qhf-naturex-01.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>坨泡爸爸</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>myFirstBlog</title>
-    <link href="http://example.com/2021/06/26/myfirstblog/"/>
-    <id>http://example.com/2021/06/26/myfirstblog/</id>
+    <link href="https://qhf-naturex-01.github.io/2021/06/26/myfirstblog/"/>
+    <id>https://qhf-naturex-01.github.io/2021/06/26/myfirstblog/</id>
     <published>2021-06-26T09:31:15.000Z</published>
     <updated>2021-06-26T09:31:15.115Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/06/26/hello-world/"/>
-    <id>http://example.com/2021/06/26/hello-world/</id>
+    <link href="https://qhf-naturex-01.github.io/2021/06/26/hello-world/"/>
+    <id>https://qhf-naturex-01.github.io/2021/06/26/hello-world/</id>
     <published>2021-06-26T09:18:14.308Z</published>
     <updated>2021-06-26T09:18:14.308Z</updated>
     
